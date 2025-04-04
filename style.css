@@ -28,14 +28,14 @@ body{
   color: rgb(0, 166, 255);
 }
 
-.imagem{
-    width: 60%;
+.imagem1{
+    width: 45%;
 }
-  
-.linha{
-    border-bottom: 1px solid #050505;
-    border-top: 1px solid #000000;
+
+.imagem2{
+    width: 35%;
 }
+
 
     
 
